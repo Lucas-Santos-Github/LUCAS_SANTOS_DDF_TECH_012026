@@ -1,7 +1,10 @@
 # Case Técnico - Dadosfera 
-**Candidato:** Lucas de Assis Santos 
-**Data:** Janeiro 2026  
+
+**Candidato:** Lucas de Assis Santos
+
 **Repositório:** `LUCAS_SANTOS_DDF_TECH_012026`
+
+**Data:** Janeiro 2026  
 
 ---
 

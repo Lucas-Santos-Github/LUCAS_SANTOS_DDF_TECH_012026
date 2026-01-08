@@ -6,6 +6,8 @@
 
 **Data:** Janeiro 2026  
 
+**Link Video apresentação:** https://www.youtube.com/watch?v=W55Qhuspw8s
+
 ---
 
 ## 📑 Resumo do Projeto

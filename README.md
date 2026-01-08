@@ -58,8 +58,6 @@ Organização de pastas (Bronze, Silver, Gold) no Metabase e criação de um Das
 * **Pasta Gold (Queries):** [Link para Pasta Gold](https://metabase-treinamentos.dadosfera.ai/collection/961-gold)
 
 * **Print do Dashboard:**
-![Dashboard Final](assets/print_dashboard.png)
 
-* **Print do Dashboard:**
 ![Dashboard Final](assets/print_dashboard.png)
 ---

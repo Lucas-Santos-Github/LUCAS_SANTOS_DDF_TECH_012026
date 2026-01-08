@@ -7,8 +7,8 @@ Scripts Python (Google Colab) utilizados para:
 
 ## Arquivos
 
-- `kaggle_download.ipynb` - Script para download dos dados do Kaggle
-- `rds_loader.ipynb` - Script para carregamento dos dados no AWS RDS
+- `kaggle_download.py` - Script para download dos dados do Kaggle
+- `rds_loader.py` - Script para carregamento dos dados no AWS RDS
 
 ## Como Usar
 

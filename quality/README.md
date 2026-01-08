@@ -4,8 +4,8 @@ Scripts de validação e garantia de qualidade dos dados.
 
 ## Arquivos
 
-- `data_quality_checks.py` - Suite de testes de qualidade dos dados
-- `quality_report.html` - Relatório gerado de qualidade
+- `dataquality.py` - Suite de testes de qualidade dos dados no arquivo csv.
+- `dataquality-db.py` - Suite de testes de qualidade dos dados na base de dados PostgreSQL
 
 ## Validações Realizadas
 
@@ -13,4 +13,4 @@ Scripts de validação e garantia de qualidade dos dados.
 - Validação de tipos de dados
 - Detecção de duplicatas
 - Análise de distribuição
-- Testes de integridade referencial
+

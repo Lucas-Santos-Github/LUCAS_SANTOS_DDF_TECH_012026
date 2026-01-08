@@ -4,7 +4,7 @@ Imagens, screenshots e documentação visual do projeto.
 
 ## Conteúdo
 
-- Screenshots do Dashboard Metabase
 - Prints do Catálogo Dadosfera
-- Diagramas de arquitetura
-- Capturas de tela da pipeline de dados
+- Screenshots do Dashboard Metabase
+- Capturas de tela Data Quality
+- Capturas de tela Ingestão de dados

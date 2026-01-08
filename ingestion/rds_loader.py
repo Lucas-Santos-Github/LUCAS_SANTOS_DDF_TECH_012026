@@ -3,7 +3,7 @@ from sqlalchemy import create_engine
 
 # Configurações do seu RDS AWS
 DB_USER = 'postgres'
-DB_PASSWORD = 'DDFTECH012026'
+DB_PASSWORD = 'DB_PASSWORD'
 DB_HOST = 'ddf-tech-012026.cmxemg2wqxm7.us-east-1.rds.amazonaws.com'
 DB_PORT = '5432'
 DB_NAME = 'ddfsource'

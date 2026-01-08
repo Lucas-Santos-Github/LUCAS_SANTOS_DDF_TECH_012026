@@ -64,3 +64,11 @@ Organização de pastas (Bronze, Silver, Gold) no Metabase e criação de um Das
 
 ![Dashboard Final](assets/print_dashboard.png)
 ---
+## 🚀 Planos Futuros e Escalabilidade
+
+Este projeto foi desenhado para ser a base de uma plataforma de dados robusta. Como próximos passos para evolução da maturidade analítica, prevemos:
+
+1. **Integração Nativa com LLMs:** Embora o processamento de texto (sentimento/categoria) tenha sido simulado via Python/Prompt Engineering, a arquitetura está 100% pronta para ser integrada aos serviços de LLM da **Dadosfera**, permitindo análise em tempo real de milhares de reviews.
+2. **Automação de Data Quality:** Implementar o monitoramento de qualidade diretamente no pipeline da Dadosfera, criando alertas automáticos via e-mail ou Slack caso inconsistências sejam detectadas no Snowflake.
+3. **Previsão de Churn (ML):** Utilizar os dados estruturados na Camada Gold para treinar modelos de Machine Learning que identifiquem clientes com alta probabilidade de abandono com base no sentimento dos reviews.
+---
